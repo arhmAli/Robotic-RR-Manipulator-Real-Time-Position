@@ -8,5 +8,9 @@
  <li>Seperate Animation File</li>
  <li>Done on Pure MATLAB no external tools are used</li>
  <li>Included the media files</li>
+ </ol>
  <p align="center"> <img src="https://media.tenor.com/dCP7OIQWjBcAAAAM/im-a-robot-robot.gif"/></p>
+ 
+ <p align="center"><strong>IF YOU FOUND THIS CODE HELPFUL DO STAR THE REP ⭐ </strong></p>
+ 
  
